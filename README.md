@@ -1,6 +1,6 @@
 In November 30, 2018, CGDV conducted a Data Visualization hackathon called "Analyzing Access to Safe Drinking Water in Ethiopia" at George Washington University in Washington D.C.
 
-Guillermina Sutter Schneider and I got first place in the competition.
+Guillermina Sutter Schneider and I (Team Chips) got first place in the competition.
 
 The prompt was to make a data visualization of a dataset about Access to Safe Drinking Water in Ethiopia in less than 2 hours.
 
